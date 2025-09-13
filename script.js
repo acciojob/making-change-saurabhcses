@@ -8,7 +8,7 @@ const makeChange = (c) => {
   c %= 5;
   result.p = c;
 
-  return c;
+  return result;
 }
 
 // Do not the change the code below
